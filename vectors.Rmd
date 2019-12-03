@@ -1,6 +1,6 @@
 ---
 title: "Stat 210 Vectors"
-output: html_notebook
+output: github_document
 ---
 
 There are two types of vectors, Atomic and Lists
